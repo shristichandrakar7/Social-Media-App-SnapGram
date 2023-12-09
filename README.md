@@ -1,1 +1,1 @@
-Website Link: https://social-media-app-snap-gram.vercel.app/
+Website Link: https://social-media-app-snapgram.vercel.app/
